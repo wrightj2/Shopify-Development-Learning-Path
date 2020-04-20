@@ -45,4 +45,8 @@ My guide to different resources for learning Shopify development
 
 ## React
 
-## Docs & Tools
+## Docs, Tools etc.
+
+**Author:** Shopify **Where:** Shopify Website **Type:** Video
+
+[Shopify Weninars on various aspects](https://www.shopify.ca/partners/webinars)
