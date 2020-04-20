@@ -21,7 +21,7 @@ My guide to different resources for learning Shopify development
 
 [Shopify App Deve Tutorial](https://codeecommerce.com/products/shopify-app-dev-tutorial)
 
-
+<ins> Polaris </ins>
 
 <ins> JavaScript </ins>
 
