@@ -3,6 +3,10 @@ My guide to different resources for learning Shopify development
 
 <ins> Theme Development </ins>
 
+[Shopify Theme Development: Build and Customise Your Own Online Store](https://www.skillshare.com/classes/Shopify-Theme-Development-Build-and-Customise-Your-Own-Online-Store/1756809856/projects?via=custom-list)
+
+[Shopify Theme Programming: Liquid, JSON and Javascript](https://www.skillshare.com/classes/Shopify-Theme-Programming-Liquid-JSON-and-Javascript/60394778?via=custom-list)
+
 [Shopify Theme with React Tut](https://codeecommerce.com/products/shopify-theme-with-react-tutorial)
 
 <ins> Liquid </ins>
@@ -19,7 +23,7 @@ My guide to different resources for learning Shopify development
 
 <ins> App Development </ins>
 
-[Shopify App Deve Tutorial](https://codeecommerce.com/products/shopify-app-dev-tutorial)
+[Shopify App Dev Tutorial](https://codeecommerce.com/products/shopify-app-dev-tutorial)
 
 <ins> Polaris </ins>
 
