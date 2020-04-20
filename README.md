@@ -5,7 +5,7 @@ My guide to different resources for learning Shopify development
 
 [Shopify Theme Development: Build and Customise Your Own Online Store](https://www.skillshare.com/classes/Shopify-Theme-Development-Build-and-Customise-Your-Own-Online-Store/1756809856/projects?via=custom-list)
 
-  **Author:** Christopher Dodd **Where:** Skillshare **Type:** Video
+ > **Author:** Christopher Dodd **Where:** Skillshare **Type:** Video
 
 [Shopify Theme Programming: Liquid, JSON and Javascript](https://www.skillshare.com/classes/Shopify-Theme-Programming-Liquid-JSON-and-Javascript/60394778?via=custom-list)
 
