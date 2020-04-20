@@ -1,7 +1,7 @@
 # Shopify Development Learning Path
 My guide to different resources for learning Shopify development
 
-<ins> Theme Development </ins>
+<ins> ## Theme Development </ins>
 
 [Shopify Theme Development: Build and Customise Your Own Online Store](https://www.skillshare.com/classes/Shopify-Theme-Development-Build-and-Customise-Your-Own-Online-Store/1756809856/projects?via=custom-list)
 
