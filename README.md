@@ -1,7 +1,7 @@
 # Shopify Development Learning Path
 My guide to different resources for learning Shopify development
 
-<ins> ## Theme Development </ins>
+## Theme Development
 
 [Shopify Theme Development: Build and Customise Your Own Online Store](https://www.skillshare.com/classes/Shopify-Theme-Development-Build-and-Customise-Your-Own-Online-Store/1756809856/projects?via=custom-list)
 
@@ -15,9 +15,9 @@ My guide to different resources for learning Shopify development
 
 **Author:** CodeEcommerce **Where:** Website **Type:** Video
 
-<ins> Liquid </ins>
+## Liquid
 
-<ins> GraphQL </ins>
+## GraphQL
 
 [The Guide to Learn GraphQL I Wish I Found a Few Months Ago](https://medium.com/@kalin.chernev/the-guide-to-learn-graphql-i-wish-i-found-few-months-go-97f9d9ca6f12)
 
@@ -29,16 +29,16 @@ My guide to different resources for learning Shopify development
 
 [Shopify's GraphQL Learning Resources](https://shopify.dev/concepts/graphql/learning-resources)
 
-<ins> App Development </ins>
+## App Development
 
 [Shopify App Dev Tutorial](https://codeecommerce.com/products/shopify-app-dev-tutorial)
 
 **Author:** CodeEcommerce **Where:** Website **Type:** Video
 
-<ins> Polaris </ins>
+## Polaris
 
-<ins> JavaScript </ins>
+## JavaScript
 
-<ins> React </ins>
+## React
 
-<ins> Docs & Tools </ins>
+## Docs & Tools
