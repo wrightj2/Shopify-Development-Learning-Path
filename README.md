@@ -38,6 +38,10 @@ My guide to different resources for learning Shopify development
 [Shopify App Dev Tutorial](https://codeecommerce.com/products/shopify-app-dev-tutorial)
 
   **Author:** CodeEcommerce **Where:** Website **Type:** Video
+  
+[Shopify App Dev Video Series](https://www.youtube.com/channel/UC9vwVY1E1yV87iOYK2pK09g)
+
+  **Author:** Red Cap Tom **Where:** YouTube **Type:** Video
 
 ## Polaris
 
