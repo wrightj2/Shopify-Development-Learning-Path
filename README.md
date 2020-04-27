@@ -33,6 +33,8 @@ My guide to different resources for learning Shopify development
 
 [Shopify's GraphQL Learning Resources](https://shopify.dev/concepts/graphql/learning-resources)
 
+## Apollo
+
 ## App Development
 
 [Shopify App Dev Tutorial](https://codeecommerce.com/products/shopify-app-dev-tutorial)
@@ -48,6 +50,12 @@ My guide to different resources for learning Shopify development
 ## JavaScript
 
 ## React
+
+## Node
+
+## NextJS
+
+## Koajs
 
 ## Docs, Tools etc.
 
